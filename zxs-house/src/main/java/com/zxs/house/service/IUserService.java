@@ -5,7 +5,7 @@ import com.zxs.house.web.dto.UserDTO;
 
 /**
  * 用户服务
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface IUserService {
     User findUserByName(String userName);

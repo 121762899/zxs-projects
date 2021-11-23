@@ -2,7 +2,7 @@ package com.zxs.house.service;
 
 /**
  * 验证码服务
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface ISmsService {
     /**

@@ -1,7 +1,7 @@
 package com.zxs.house.web.dto;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class HouseDetailDTO {
     private String description;

@@ -6,7 +6,7 @@ import java.util.List;
 /**
  *
  * 索引结构模板
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class HouseIndexTemplate {
     private Long houseId;

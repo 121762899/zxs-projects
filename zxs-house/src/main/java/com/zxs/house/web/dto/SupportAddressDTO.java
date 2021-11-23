@@ -3,7 +3,7 @@ package com.zxs.house.web.dto;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class SupportAddressDTO {
     private Long id;

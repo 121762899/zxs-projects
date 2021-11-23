@@ -1,7 +1,7 @@
 package com.zxs.house.web.form;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class MapSearch {
     private String cityEnName;

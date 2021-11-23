@@ -11,6 +11,8 @@
     <modules>
         <module>zxs-blog</module>
         <module>zxs-house</module>
+        <module>zxs-permission</module>
+        <module>zxs-food-social</module>
     </modules>
 
 

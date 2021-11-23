@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
  * 百度位置信息
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class BaiduMapLocation {
     // 经度

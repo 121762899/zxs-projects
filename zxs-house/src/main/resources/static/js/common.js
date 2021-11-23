@@ -1,5 +1,5 @@
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 
 Date.prototype.Format = function(fmt) {

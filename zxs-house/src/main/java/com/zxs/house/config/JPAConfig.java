@@ -15,10 +15,10 @@ import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Configuration
-@EnableJpaRepositories(basePackages = "com.zxs.repository")
+@EnableJpaRepositories(basePackages = "com.zxs.house.repository")
 @EnableTransactionManagement
 public class JPAConfig {
     @Bean
@@ -35,7 +35,7 @@ public class JPAConfig {
         LocalContainerEntityManagerFactoryBean entityManagerFactory = new LocalContainerEntityManagerFactoryBean();
         entityManagerFactory.setDataSource(dataSource());
         entityManagerFactory.setJpaVendorAdapter(japVendor);
-        entityManagerFactory.setPackagesToScan("com.zxs.entity");
+        entityManagerFactory.setPackagesToScan("com.zxs.house.entity");
         return entityManagerFactory;
     }
 

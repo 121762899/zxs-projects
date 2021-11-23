@@ -24,7 +24,7 @@ import com.zxs.house.base.LoginUserUtil;
 import com.zxs.house.web.dto.UserDTO;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Service
 public class UserServiceImpl implements IUserService {

@@ -24,7 +24,7 @@ import com.zxs.house.base.ApiResponse;
 import com.zxs.house.base.LoginUserUtil;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Controller
 public class UserController {

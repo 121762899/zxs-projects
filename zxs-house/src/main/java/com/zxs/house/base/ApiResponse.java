@@ -2,7 +2,7 @@ package com.zxs.house.base;
 
 /**
  * API格式封装
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class ApiResponse {
     private int code;

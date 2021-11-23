@@ -34,7 +34,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Controller
 public class HouseController {

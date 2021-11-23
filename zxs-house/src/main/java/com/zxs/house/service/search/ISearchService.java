@@ -9,7 +9,7 @@ import com.zxs.house.web.form.RentSearch;
 
 /**
  * 检索接口
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface ISearchService {
     /**

@@ -16,7 +16,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Entity
 @Table(name = "user")

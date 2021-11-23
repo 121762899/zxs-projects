@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * 通用多结果Service返回结构
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class ServiceMultiResult<T> {
     private long total;

@@ -19,7 +19,7 @@ import com.aliyuncs.profile.DefaultProfile;
 import com.aliyuncs.profile.IClientProfile;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Service
 public class SmsServiceImpl implements ISmsService, InitializingBean {

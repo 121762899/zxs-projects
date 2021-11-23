@@ -2,7 +2,7 @@ package com.zxs.house.web.form;
 
 /**
  * 租房请求参数结构体
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class RentSearch {
     private String cityEnName;

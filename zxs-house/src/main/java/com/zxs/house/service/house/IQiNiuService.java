@@ -8,7 +8,7 @@ import com.qiniu.http.Response;
 
 /**
  * 七牛云服务
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface IQiNiuService {
     Response uploadFile(File file) throws QiniuException;

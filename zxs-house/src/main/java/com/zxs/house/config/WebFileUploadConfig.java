@@ -23,7 +23,7 @@ import com.qiniu.util.Auth;
 
 /**
  * 文件上传配置
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Configuration
 @ConditionalOnClass({Servlet.class, StandardServletMultipartResolver.class, MultipartConfigElement.class})

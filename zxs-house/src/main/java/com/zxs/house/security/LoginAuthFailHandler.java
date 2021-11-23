@@ -11,7 +11,7 @@ import org.springframework.security.web.authentication.SimpleUrlAuthenticationFa
 
 /**
  * 登录验证失败处理器
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class LoginAuthFailHandler extends SimpleUrlAuthenticationFailureHandler {
     private final LoginUrlEntryPoint urlEntryPoint;

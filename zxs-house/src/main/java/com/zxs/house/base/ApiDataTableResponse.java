@@ -2,7 +2,7 @@ package com.zxs.house.base;
 
 /**
  * Datatables响应结构
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class ApiDataTableResponse extends ApiResponse {
     private int draw;

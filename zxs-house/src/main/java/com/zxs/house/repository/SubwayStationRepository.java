@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
 import com.zxs.house.entity.SubwayStation;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface SubwayStationRepository extends CrudRepository<SubwayStation, Long> {
     List<SubwayStation> findAllBySubwayId(Long subwayId);

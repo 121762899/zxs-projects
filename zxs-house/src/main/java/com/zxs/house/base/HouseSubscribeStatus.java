@@ -2,7 +2,7 @@ package com.zxs.house.base;
 
 /**
  * 预约状态码
- * Created by 瓦力.
+ * Created by zxs.
  */
 public enum HouseSubscribeStatus {
     NO_SUBSCRIBE(0), // 未预约

@@ -239,8 +239,8 @@
                                 <rule>
                                     <element>CLASS</element>
                                     <includes>
-                                        <include>com.zxs.service.*.*</include>
-                                        <include>com.zxs.repository.*</include>
+                                        <include>com.zxs.house.service.*.*</include>
+                                        <include>com.zxs.house.repository.*</include>
                                     </includes>
                                     <limits>
                                         <limit>

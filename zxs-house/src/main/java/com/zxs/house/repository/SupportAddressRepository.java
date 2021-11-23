@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
 import com.zxs.house.entity.SupportAddress;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface SupportAddressRepository extends CrudRepository<SupportAddress, Long>{
     /**

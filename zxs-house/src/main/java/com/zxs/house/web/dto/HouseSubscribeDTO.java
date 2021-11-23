@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 预约看房实体类
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class HouseSubscribeDTO {
     private Long id;

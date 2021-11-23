@@ -10,7 +10,7 @@ import org.springframework.data.repository.query.Param;
 import com.zxs.house.entity.HouseSubscribe;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface HouseSubscribeRespository extends PagingAndSortingRepository<HouseSubscribe, Long>{
 

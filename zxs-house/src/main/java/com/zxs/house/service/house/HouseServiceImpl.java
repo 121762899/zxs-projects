@@ -55,7 +55,7 @@ import com.qiniu.common.QiniuException;
 import com.qiniu.http.Response;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Service
 public class HouseServiceImpl implements IHouseService {

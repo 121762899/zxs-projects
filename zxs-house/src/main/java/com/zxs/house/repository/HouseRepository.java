@@ -9,7 +9,7 @@ import org.springframework.data.repository.query.Param;
 import com.zxs.house.entity.House;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface HouseRepository extends PagingAndSortingRepository<House, Long>, JpaSpecificationExecutor<House> {
     @Modifying

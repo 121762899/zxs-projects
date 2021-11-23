@@ -2,7 +2,7 @@ package com.zxs.house.service;
 
 /**
  * 服务接口通用结构
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class ServiceResult<T> {
     private boolean success;

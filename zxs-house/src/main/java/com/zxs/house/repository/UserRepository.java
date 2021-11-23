@@ -8,7 +8,7 @@ import org.springframework.data.repository.query.Param;
 import com.zxs.house.entity.User;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface UserRepository extends CrudRepository<User, Long> {
 

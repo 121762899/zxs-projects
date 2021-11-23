@@ -1,7 +1,7 @@
 package com.zxs.house.service.search;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class HouseIndexMessage {
 

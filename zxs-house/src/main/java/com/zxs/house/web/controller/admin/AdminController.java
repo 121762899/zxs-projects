@@ -50,7 +50,7 @@ import com.qiniu.common.QiniuException;
 import com.qiniu.http.Response;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Controller
 public class AdminController {

@@ -2,7 +2,7 @@ package com.zxs.house.base;
 
 /**
  * 房源状态
- * Created by 瓦力.
+ * Created by zxs.
  */
 public enum HouseStatus {
     NOT_AUDITED(0), // 未审核

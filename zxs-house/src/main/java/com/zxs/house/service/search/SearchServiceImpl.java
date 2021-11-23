@@ -62,7 +62,7 @@ import com.zxs.house.web.form.MapSearch;
 import com.zxs.house.web.form.RentSearch;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Service
 public class SearchServiceImpl implements ISearchService {

@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Controller
 public class HomeController {

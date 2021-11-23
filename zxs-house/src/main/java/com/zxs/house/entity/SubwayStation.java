@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Entity
 @Table(name = "subway_station")

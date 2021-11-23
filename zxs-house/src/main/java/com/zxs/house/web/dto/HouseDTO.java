@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class HouseDTO implements Serializable {
     private static final long serialVersionUID = 8918735582286008182L;

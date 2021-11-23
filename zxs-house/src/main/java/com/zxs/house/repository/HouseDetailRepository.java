@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
 import com.zxs.house.entity.HouseDetail;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public interface HouseDetailRepository extends CrudRepository<HouseDetail, Long>{
     HouseDetail findByHouseId(Long houseId);

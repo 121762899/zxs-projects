@@ -16,7 +16,7 @@ import org.springframework.util.PathMatcher;
 
 /**
  * 基于角色的登录入口控制器
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class LoginUrlEntryPoint extends LoginUrlAuthenticationEntryPoint {
 

@@ -19,7 +19,7 @@ import com.zxs.house.base.LoginUserUtil;
 import com.zxs.house.entity.User;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class AuthFilter extends UsernamePasswordAuthenticationFilter {
 

@@ -18,7 +18,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * Created by 瓦力.
+ * Created by zxs.
  */
 @Component
 public class ESMonitor {
@@ -74,7 +74,7 @@ public class ESMonitor {
                 // 获取集群节点
                 int totalNodes = result.get("number_of_nodes").asInt();
                 if (totalNodes < 5) {
-                    sendAlertMessage("我们的瓦力节点丢了！");
+                    sendAlertMessage("我们的zxs节点丢了！");
                 }
             }
         } catch (IOException e) {

@@ -14,7 +14,7 @@ import com.zxs.house.entity.User;
 
 /**
  * 自定义认证实现
- * Created by 瓦力.
+ * Created by zxs.
  */
 public class AuthProvider implements AuthenticationProvider {
     @Autowired
